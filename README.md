@@ -1,1 +1,1 @@
-A collection of solution codes for https://cses.fi/problemsets 
+A collection of solution codes for https://cses.fi/problemset/
