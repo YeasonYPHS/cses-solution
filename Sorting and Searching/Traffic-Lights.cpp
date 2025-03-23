@@ -4,11 +4,11 @@
 using namespace std;
 int main(){
     cin.tie(0)->sync_with_stdio(0);
-    int N,M,x,ans;
+    int N,M,x;
     cin>>N>>M;
     set<int> S;
     multiset<int> K;
-    S.insert(0),S.insert(N),K.insert(N),ans=N;
+    S.insert(0),S.insert(N),K.insert(N);
     while(M--){
         cin>>x;
         auto r = S.upper_bound(x),l=prev(r);

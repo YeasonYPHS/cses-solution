@@ -1,8 +1,3 @@
-/*
-Problem Name: Point Location Test
-Problem Link: https://cses.fi/problemset/task/2189
-Author: Sachin Srivastava (mrsac7)
-*/
 #include<bits/stdc++.h>
 using namespace std;
  
